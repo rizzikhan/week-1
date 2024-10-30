@@ -5,7 +5,7 @@
 # Here we cover Numbers, Sequence Types, Boolean, Set, Dictionary, and Range.
 
 # 1.1 Numbers
-# Numbers in Python can be of various types: Integer, Float, and Complex.
+# Numbers in Pythonn can be of various types: Integer, Float, and Complex.
 # - Integer: Whole numbers, positive or negative.
 # - Float: Decimal numbers, representing real numbers.
 # - Complex: Numbers that have a real part and an imaginary part, expressed as a + bj.
